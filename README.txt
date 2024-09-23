@@ -95,5 +95,3 @@ The performance of the agents is evaluated based on how many of games won, lost,
 ########## References
 =====================
 1.SimpleAI- https://github.com/simpleai-team/simpleai.
-
-2.CS5313_L1NEW2_secured- https://mycourselink.lakeheadu.ca/d2l/le/content/143676/viewContent/1889061/View
