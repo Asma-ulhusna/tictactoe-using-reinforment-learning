@@ -89,6 +89,8 @@ The performance of the agents is evaluated based on how many of games won, lost,
 ======================
 - **Asma ul Husna** - Modified, implemented and compared the TD-Q Learning and SARSA algorithms within the Tic-Tac-Toe environment using the SimpleAI library.
 
+- GitHub link - here is the link to the repository: https://github.com/Asma-ulhusna/tictactoe-using-reinforment-learning
+
 
 ########## References
 =====================
